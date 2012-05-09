@@ -1,0 +1,24 @@
+{
+    "name": "brikou/zend_registry",
+    "type": "library",
+    "description": "",
+    "description": "Zend Framework Registry Library",
+    "keywords": [
+        "zend framework",
+        "registry"
+    ],
+    "homepage": "https://github.com/brikou/zend_registry",
+    "license": "Zend Framework",
+    "authors": [
+        {
+            "name": "Zend Technologies USA, Inc.",
+            "homepage": "http://framework.zend.com/"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "psr-0": { "Zend\\Registry": "" }
+    }
+}
